@@ -27,7 +27,7 @@
 </head>
 <body>
 <header>
-	<div id="homeFullScreen">
+	<div class="home_full_screen" id="homeFullScreen">
 		<div class="header-text">
 			<h1>Islam Kurbanov</h1>
 			<div class="vertical-line"></div>
