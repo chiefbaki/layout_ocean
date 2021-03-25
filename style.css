@@ -14,7 +14,7 @@ body
 
 
 /* Header */
-#homeFullScreen {
+.home_full_screen {
     width: 100%;
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -24,7 +24,7 @@ body
 }
 
 
-#homeFullScreen {
+.home_full_screen {
     display: table-cell;
     vertical-align: middle;
     text-align: center;
