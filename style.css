@@ -19,13 +19,10 @@ body
     background-repeat: no-repeat;
     background-attachment: scroll;
     background-size: cover;
-    background-position: top center;
+    background-position: center;
+    background-image: url('./header2.png');
 }
 
-#homeFullScreen {
-    background-image: url('./header2.png');
-    overflow: hidden;
-}
 
 #homeFullScreen {
     display: table-cell;
@@ -34,8 +31,7 @@ body
     margin: auto;
 }
 
-.header-text h1
-{
+.header-text h1{
     font-size: 60px;
     color: #fff;
     text-transform: uppercase;
